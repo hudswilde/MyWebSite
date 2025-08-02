@@ -1,0 +1,10 @@
+/MyWebSite.Application/bin
+/MyWebSite.Application/obj
+/MyWebSite.Data/bin
+/MyWebSite.Data/obj
+/MyWebSite.Domain/bin
+/MyWebSite.Domain/obj
+/MyWebSite.WebApi/.vs
+/MyWebSite.WebApi/bin
+/MyWebSite.WebApi/obj
+*.user
